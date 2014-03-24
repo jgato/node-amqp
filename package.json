@@ -1,4 +1,4 @@
-{ "name" : "amqp-aeon"
+{ "name" : "amqp"
 , "description" : "AMQP driver for node, custom version for AEON. Based on node-amqp 1.2.8"
 , "keywords" : [ "amqp" ]
 , "version" : "0.2.0"
